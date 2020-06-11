@@ -1,6 +1,8 @@
-#INSTRUCTOR
-  ##Joe Marini
-  ##Senior Developer Advocate at Google, Developer
+# INSTRUCTOR
+##	Joe Marini
+##	Senior Developer Advocate at Google, Developer
+
+[Course Link](https://www.linkedin.com/learning/learning-python-2)
 
 Course details
 2h 11m  Beginner  Released: 1/30/2018
