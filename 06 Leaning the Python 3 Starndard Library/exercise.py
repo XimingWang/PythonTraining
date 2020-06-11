@@ -1,11 +1,8 @@
-import math
-#from random import random
-import random
+def multi_add(*args):
+    print(type(args))
+    result = 0
+    for x in args:
+        result = result + x
+    return result
 
-print(math.radians(360)/math.pi)
-
-possiblePets = ["cat","dog","fish"]
-print(random.choice(possiblePets))
-print(random.sample())
-
-
+print(multi_add(4,5,10,4))
